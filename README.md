@@ -2,7 +2,8 @@
 PlayHoboken Social Media Application README
 
 About the App
-PlayHoboken is an innovative social networking platform designed for enthusiasts of hobbies and games. This app, available on iOS, Android, and as a Progressive Web App (PWA), connects individuals by facilitating the management of friends and coordination of peer-to-peer activities. It aims to elevate user engagement and retention through a community-oriented approach.
+
+The PlayHoboken app is an innovative social networking platform designed for enthusiasts of hobbies and games. This app, available on iOS, Android, and as a Progressive Web App (PWA), connects individuals by facilitating the management of friends and coordination of peer-to-peer activities. It aims to elevate user engagement and retention through a community-oriented approach.
 
 Features
 User Registration & Profiles: Sign up and customize your profile to reflect your interests and hobbies.
